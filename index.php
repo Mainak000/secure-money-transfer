@@ -106,7 +106,7 @@ require_once('inc/activity_logger.php');
     // Your web app's Firebase configuration
     // For Firebase JS SDK v7.20.0 and later, measurementId is optional
     const firebaseConfig = {
-      apiKey: "AIzaSyAR843Hc-1O6lVsdDLR0MWB6TiH73gachU",
+ 
       authDomain: "my-project-1479123719699.firebaseapp.com",
       databaseURL: "https://my-project-1479123719699-default-rtdb.firebaseio.com",
       projectId: "my-project-1479123719699",
